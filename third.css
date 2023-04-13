@@ -14,3 +14,9 @@ h2
  color:red;
  text-align: center;
 }
+
+p
+{
+    box-sizing: border-box;
+    color: yellow;
+}
