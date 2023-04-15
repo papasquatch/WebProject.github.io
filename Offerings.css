@@ -37,3 +37,9 @@ p
     min-width: 100px;
     color: whitesmoke;
 }
+
+footer
+{
+    text-align: center;
+    color: blue;
+}
