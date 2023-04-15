@@ -29,7 +29,7 @@ table
 }
 
 
-td
+th, td
 {
     border:"1";
     border-style: groove;
