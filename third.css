@@ -22,6 +22,12 @@ h2
  text-align: center;
 }
 
+h3
+{
+    color: darkorange;
+    text-align: center;
+}
+
 p
 {
     box-sizing: border-box;
