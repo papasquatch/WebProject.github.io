@@ -29,7 +29,17 @@ table
 }
 
 
-th, td
+th
+{
+    border:"1";
+    border-style: groove;
+    border-color: aliceblue;
+    color:whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td
 {
     border:"1";
     border-style: groove;

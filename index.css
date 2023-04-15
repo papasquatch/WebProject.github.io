@@ -25,7 +25,6 @@ img
 
 footer
 {
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
     color: blue;
 }
