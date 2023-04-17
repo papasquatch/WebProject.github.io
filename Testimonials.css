@@ -12,12 +12,14 @@ img
 
 h1
 {
+ font-size: 50px;
  color:blue;
  text-align: center;
 }
 
 h2
 {
+ font-size: 35px;
  color:red;
  text-align: center;
 }
@@ -31,6 +33,7 @@ table
 
 th
 {
+    font-size: 25px;
     border:"1";
     border-style: groove;
     border-color: aliceblue;
@@ -41,6 +44,7 @@ th
 
 td
 {
+    font-size: 25px;
     border:"1";
     border-style: groove;
     border-color: aliceblue;
@@ -52,12 +56,14 @@ td
 
 h3
 {
+    font-size: 25px;
     color: darkorange;
     text-align: center;
 }
 
 p
 {
+    font-size: 20px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -68,12 +74,14 @@ p
 
 footer
 {
+    font-size: 25px;
     text-align: center;
     color: blue;
 }
 
 copyright
 {
+    font-size: 25px;
     text-align: center;
     color: blue; 
 }
