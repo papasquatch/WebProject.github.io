@@ -12,14 +12,14 @@ img
 
 h1
 {
- font-size: 50px;
+ font-size: 75px;
  color:blue;
  text-align: center;
 }
 
 h2
 {
- font-size: 35px;
+ font-size: 50px;
  color:red;
  text-align: center;
 }
@@ -33,7 +33,7 @@ table
 
 th
 {
-    font-size: 25px;
+    font-size: 30px;
     border:"1";
     border-style: groove;
     border-color: aliceblue;
@@ -44,7 +44,7 @@ th
 
 td
 {
-    font-size: 25px;
+    font-size: 30px;
     border:"1";
     border-style: groove;
     border-color: aliceblue;
@@ -56,14 +56,14 @@ td
 
 h3
 {
-    font-size: 25px;
+    font-size: 30px;
     color: darkorange;
     text-align: center;
 }
 
 p
 {
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
