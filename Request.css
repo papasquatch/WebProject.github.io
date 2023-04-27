@@ -3,12 +3,13 @@ body
     background-color: black;
 }
 
-img
+.header img
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 
 h1
 {
