@@ -46,3 +46,17 @@ h3
     color: chartreuse;
     text-align: center;
 }
+
+footer
+{
+    font-size: 25px;
+    text-align: center;
+    color: blue;
+}
+
+copyright
+{
+    font-size: 25px;
+    text-align: center;
+    color: blue; 
+}
